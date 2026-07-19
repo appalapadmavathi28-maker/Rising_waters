@@ -1,20 +1,108 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌊 Rising Waters
 
-# Run and deploy your AI Studio app
+> 🚨 A web application to spread awareness about rising water levels and environmental impact.
 
-This contains everything you need to run your app locally.
+🔗 **Live Demo:** https://rising-waters-gd7w.vercel.app/
 
-View your app in AI Studio: https://ai.studio/apps/1134539c-8986-4e25-b77e-6937ddd275f3
+---
 
-## Run Locally
+## 🖼️ Preview
 
-**Prerequisites:**  Node.js
+![Project Preview](https://via.placeholder.com/800x400.png?text=Rising+Waters+Project)
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📌 About The Project
+
+**Rising Waters** is a web application developed as a **team project** to create awareness about rising water levels and environmental challenges.
+
+It focuses on:
+- 🌍 Environmental awareness
+- 🌊 Rising water levels
+- ⚠️ Future risks and safety
+
+---
+
+## 🚀 Features
+
+- ✅ Responsive Design
+- 🎨 Clean UI
+- ⚡ Fast performance
+- 📱 Mobile friendly
+- 🌍 Awareness-based content
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Vercel (Deployment)
+
+---
+
+## 👥 Team Members
+
+- 👩‍💻 **Appala Padmavathi**  
+- 👩‍💻 **Dosapati Teja Naveen**  
+- 👩‍💻 **Harika NALI** 
+- 👩‍💻 **Naveen Bathula** 
+- 👩‍💻 **Adithya A** 
+
+---
+
+## 📂 Project Structure
+
+```bash
+rising-waters/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── images/
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/rising-waters.git
+cd rising-waters
+```
+
+Open `index.html` in browser
+
+---
+
+## 🌐 Deployment
+
+Deployed using **Vercel**
+
+🔗 https://rising-waters-gd7w.vercel.app/
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo  
+2. Create a new branch  
+3. Make changes  
+4. Submit Pull Request  
+
+---
+
+## 📜 License
+
+This project is open source and free to use.
+
+---
+
+## ⭐ Support
+
+If you like this project, please ⭐ star the repo!
+
+---
