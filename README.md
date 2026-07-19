@@ -2,7 +2,7 @@
 
 > 🚨 A web application to spread awareness about rising water levels and environmental impact.
 
-🔗 **Live Demo:** https://rising-waters-gd7w.vercel.app/
+🔗 **Live Demo:** https://rising-waters-6hrc.onrender.com/
 
 
 ---
