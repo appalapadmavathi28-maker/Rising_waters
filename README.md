@@ -4,11 +4,6 @@
 
 🔗 **Live Demo:** https://rising-waters-gd7w.vercel.app/
 
----
-
-## 🖼️ Preview
-
-![Project Preview](https://via.placeholder.com/800x400.png?text=Rising+Waters+Project)
 
 ---
 
@@ -81,28 +76,5 @@ Open `index.html` in browser
 Deployed using **Vercel**
 
 🔗 https://rising-waters-gd7w.vercel.app/
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo  
-2. Create a new branch  
-3. Make changes  
-4. Submit Pull Request  
-
----
-
-## 📜 License
-
-This project is open source and free to use.
-
----
-
-## ⭐ Support
-
-If you like this project, please ⭐ star the repo!
 
 ---
